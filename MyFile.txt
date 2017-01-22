@@ -1,3 +1,7 @@
 Line 1 Initial file
 Line 2 Initial file
 Line 3 Initial file
+Added to master after inital commit 1
+Added to master after inital commit 2
+Added to master after inital commit 3
+
