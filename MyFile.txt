@@ -4,4 +4,8 @@ Line 3 Initial file
 Added to master after inital commit 1
 Added to master after inital commit 2
 Added to master after inital commit 3
+Still on master A
+Still on master A
+Still on master A
+
 
