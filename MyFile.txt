@@ -1,9 +1,8 @@
 Line 1 Initial file
 Line 2 Initial file
 Line 3 Initial file
-Added to master after inital commit 1
-Added to master after inital commit 2
-Added to master after inital commit 3
+We are deleting several lines in master after we made test-branch-2:
+Here we add a line to Master after making test branch-2
 Added line to Test-branch-1, showing how we add in a feature but not on master.
 Added another line to Test-branch 1, a second feature not on master
 Still on master A
