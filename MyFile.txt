@@ -5,6 +5,8 @@ Added to master after inital commit 1
 Added to master after inital commit 2
 Added to master after inital commit 3
 
+Yet another feature, this time in test-branch-3
+
 These are the resolved commit conflicts:
 We are deleting several lines in master after we made test-branch-2:
 Here we add a line to Master after making test branch-2
